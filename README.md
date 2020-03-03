@@ -18,4 +18,4 @@ March 3rd, 2020.
 
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
-3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+3. I will update the (Log) with the day's progress and provide a link so that others can see my progress.
