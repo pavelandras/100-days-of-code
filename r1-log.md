@@ -9,3 +9,7 @@ Today I finished Tribute Page project (https://codepen.io/pavelandras/pen/QWbMdN
 ## R1D2
 
 Had a very busy day, so I had time only for practicing and refactoring on Codewars. Also practiced JS regexp a bit.
+
+## R1D3
+
+I finished the Product Landing Page (https://codepen.io/pavelandras/pen/BaNdPwE) on FreeCodeCamp and solved some Katas on Codewars.
