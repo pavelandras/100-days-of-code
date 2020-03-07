@@ -13,3 +13,11 @@ Had a very busy day, so I had time only for practicing and refactoring on Codewa
 ## R1D3
 
 I finished the Product Landing Page (https://codepen.io/pavelandras/pen/BaNdPwE) on FreeCodeCamp and solved some Katas on Codewars.
+
+## R1D4
+
+I worked on Technical Documentation Page project on FreeCodeCamp, but didn't finish yet. Got lost in this article: https://medium.com/better-programming/github-repos-that-should-be-starred-by-every-web-developer-e9eaa244810e. Also practiced JS on this repo: https://github.com/lydiahallie/javascript-questions.
+
+## R1D5
+
+Finished the Technical Documentation Page project (https://codepen.io/pavelandras/pen/poJWdxj) on FreeCodeCamp. Solved a few JS Kata on Codewars.
