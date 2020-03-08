@@ -21,3 +21,7 @@ I worked on Technical Documentation Page project on FreeCodeCamp, but didn't fin
 ## R1D5
 
 Finished the Technical Documentation Page project (https://codepen.io/pavelandras/pen/poJWdxj) on FreeCodeCamp. Solved a few JS Kata on Codewars.
+
+## R1D6
+
+Practiced on Codewars.
