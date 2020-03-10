@@ -25,3 +25,11 @@ Finished the Technical Documentation Page project (https://codepen.io/pavelandra
 ## R1D6
 
 Practiced on Codewars.
+
+## R1D7
+
+Practiced on Codewars.
+
+## R1D8
+
+Started the Portfolio Webpage project on FCC and the Basic Javascript section. Did some practive on Codewars and watched some youtube videos about Javascript and Figma.
