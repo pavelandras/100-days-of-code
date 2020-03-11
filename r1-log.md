@@ -33,3 +33,7 @@ Practiced on Codewars.
 ## R1D8
 
 Started the Portfolio Webpage project on FCC and the Basic Javascript section. Did some practive on Codewars and watched some youtube videos about Javascript and Figma.
+
+ ## R1D9
+
+Practiced on Codewars. Learned about Array.prototype.filter.
