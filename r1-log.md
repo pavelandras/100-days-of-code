@@ -4,6 +4,8 @@ The log of my #100DaysOfCode challenge. Started on March 3, Tuesday, 2020.
 
 ## R1D1
 
+#### March 3, 2020
+
 Today I finished Tribute Page project (https://codepen.io/pavelandras/pen/QWbMdNe) and Survey Form (https://codepen.io/pavelandras/pen/VwLzWVE) on FreeCodeCamp. Solved some JS Kata on Codewars and also refactored some of my old solutions.
 
 ## R1D2
@@ -34,6 +36,24 @@ Practiced on Codewars.
 
 Started the Portfolio Webpage project on FCC and the Basic Javascript section. Did some practive on Codewars and watched some youtube videos about Javascript and Figma.
 
- ## R1D9
+## R1D9
 
 Practiced on Codewars. Learned about Array.prototype.filter.
+
+## R1D10
+
+Practiced on Codewars. 
+
+## R1D11
+
+Practiced on Codewars. Learned about Vue.js on vuemastery.com. Started a Vue.js test task of a job application.
+
+## R1D12
+
+Practiced on Codewars. Learned about Vue.js on vuemastery.com. Continued the test task.
+
+## R1D13
+
+Practiced on Codewars. Learned about Vue.js on vuemastery.com. Continued the test task.
+
+## R1D14
