@@ -180,15 +180,19 @@ Practiced on Codewars. Continued Regexp section on FreeCodeCamp.
 
 ### April 1, 2020
 
-Practiced on Codewars. Continued Regexp section on FreeCodeCamp. Did the GeekBrains HTML/CSS course homework 2.
+Practiced on Codewars. Continued Regexp section on FreeCodeCamp. Did the GeekBrains HTML/CSS course homework 2 and watched the lesson 3 videos. Also had a webinar from GeekBrains about CSS preprocessors.
 
 ## R1D31
 
 ### April 2, 2020
 
+Finished Regexp section on FreeCodeCamp. Started an own project (portfolio website for a photographer) for practicing HTML/CSS(Sass).
+
 ## R1D32
 
 ### April 3, 2020
+
+Did the Debugging section and started the Basic Data Structure section on FreeCodeCamp..
 
 ## R1D33
 
